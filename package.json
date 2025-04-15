@@ -1,0 +1,29 @@
+{
+  "name": "cypress-api-boilerplate",
+  "version": "1.0.0",
+  "description": "A basic Cypress project template to start with API testingA",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaumanisr/cypress-api-boilerplate.git"
+  },
+  "keywords": [
+    "cypress",
+    "api"
+  ],
+  "author": "Rudolfs Blaumanis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blaumanisr/cypress-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/blaumanisr/cypress-api-boilerplate#readme",
+  "devDependencies": {
+    "cypress": "^14.3.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}

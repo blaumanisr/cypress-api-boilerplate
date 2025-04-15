@@ -1,0 +1,20 @@
+{
+  "id": 0,
+  "username": "new_user_2025",
+  "email": "newuser@example.com",
+  "password": "securePassword123",
+  "name": {
+    "firstname": "John",
+    "lastname": "Doe"
+  },
+  "address": {
+    "city": "New York",
+    "street": "Main Street",
+    "number": 123,
+    "zipcode": "10001",
+    "geolocation": {
+      "lat": "40.7128",
+      "long": "74.0060"
+    }
+  }
+}
