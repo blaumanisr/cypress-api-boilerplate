@@ -65,7 +65,7 @@ npx cypress run --spec "cypress/e2e/api/*.cy.js"
 
 ## 🧠 Author
 
-Maintained by @blaumanisr — blog article available at TestDevLab Blog (soon!)
+Maintained by @blaumanisr — blog article available at [`TestDevLab Blog`](https://www.testdevlab.com/blog/api-testing-with-cypress-2025)
 
 ## 📄 License
 
